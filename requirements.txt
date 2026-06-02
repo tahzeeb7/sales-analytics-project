@@ -1,5 +1,5 @@
 # Core Data Science
-pandas==2.1.4
+pandas==2.3.1
 numpy==1.26.3
 scikit-learn==1.4.0
 scipy==1.11.4
@@ -25,7 +25,7 @@ seaborn==0.13.1
 # Agentic AI
 langchain==0.1.0
 langchain-openai==0.0.5
-openai==1.8.0
+openai>=1.10.0
 
 # Data Export & Reporting
 openpyxl==3.1.2
